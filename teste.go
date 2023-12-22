@@ -1,4 +1,4 @@
-package teste02
+package teste
 
 type Tabc struct {
 	a1 int64
