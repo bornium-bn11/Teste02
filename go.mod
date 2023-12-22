@@ -1,3 +1,3 @@
-module github.com/bornium-bn11/teste02
+module 
 
 go 1.21.5
