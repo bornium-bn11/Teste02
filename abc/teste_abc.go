@@ -1,16 +1,16 @@
-package teste
+package teste02
 
-type Taaa struct {
+type Tteste_abc struct {
 	a1 int64
 	b2 string
 }
 
-func Teste_bbb() Taaa {
+func Teste_bbb() Tteste_abc {
 
-	var abc Taaa
+	var abc Tteste_abc
 
 	abc.a1 = 1
-	abc.b2 = "aaa"
+	abc.b2 = "Tteste_abc"
 
 	return abc
 

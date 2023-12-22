@@ -1,4 +1,4 @@
-package teste
+package teste02
 
 type TRest struct {
 	a1 int64
@@ -10,7 +10,7 @@ func ConexaoRest_bbb() TRest {
 	var abc TRest
 
 	abc.a1 = 1
-	abc.b2 = "aaa"
+	abc.b2 = "TRest"
 
 	return abc
 }
