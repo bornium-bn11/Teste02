@@ -5,7 +5,7 @@ type Tteste struct {
 	b2 string
 }
 
-func Paulo_Cesar_ddd() Tteste {
+func Paulo_Cesar_eee() Tteste {
 
 	var abc Tteste
 
