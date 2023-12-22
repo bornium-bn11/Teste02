@@ -5,7 +5,7 @@ type TRest struct {
 	b2 string
 }
 
-func ConexaoRest_bbb() TRest {
+func ConexaoRest_ccc() TRest {
 
 	var abc TRest
 
