@@ -5,7 +5,7 @@ type TRest struct {
 	b2 string
 }
 
-func ConexaoRest_aaa() TRest {
+func ConexaoRest_bbb() TRest {
 
 	var abc TRest
 
@@ -13,5 +13,4 @@ func ConexaoRest_aaa() TRest {
 	abc.b2 = "aaa"
 
 	return abc
-
 }
