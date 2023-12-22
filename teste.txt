@@ -1,6 +1,5 @@
 module github.com/bornium-bn11/teste02
 
-
 dddd
 
 go 1.21.5
