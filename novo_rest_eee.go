@@ -13,6 +13,5 @@ func ConexaoRest_A2222() TRest {
 	abc.b2 = "TRest"
 
 	return abc
-
 	
 }
