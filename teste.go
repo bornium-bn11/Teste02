@@ -6,7 +6,7 @@ type Tabc struct {
 }
 
 
-func PauloCesar_ttt() Tabc {
+func PauloCesar_yyy() Tabc {
 
 	var abc Tabc
 
