@@ -12,8 +12,6 @@ func Teste_A2222() Tteste_abc {
 	abc.a1 = 1
 	abc.b2 = "Tteste_abc"
 
-	return abc
-
-	
+	return abc	
 
 }
