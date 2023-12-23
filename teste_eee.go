@@ -8,7 +8,7 @@ type Tteste_abc struct {
 
 
 
-func Teste_A55555() Tteste_abc { 
+func Teste_A666666() Tteste_abc { 
 
 	var abc Tteste_abc
 
