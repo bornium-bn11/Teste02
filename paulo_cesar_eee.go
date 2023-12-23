@@ -9,7 +9,7 @@ type Tteste struct {
 
 
 
-func Paulo_Cesar_A666666() Tteste {
+func Paulo_Cesar_A7777() Tteste {
 
 	var abc Tteste
 

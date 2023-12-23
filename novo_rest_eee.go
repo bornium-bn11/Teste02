@@ -9,7 +9,7 @@ type TRest struct {
 
 
 
-func ConexaoRest_A666666() TRest {
+func ConexaoRest_A77777() TRest {
 
 	var abc TRest
 
