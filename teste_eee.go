@@ -1,4 +1,4 @@
-package teste02
+package teste_b
 
 type Tteste_abc struct {
 	a1 int64

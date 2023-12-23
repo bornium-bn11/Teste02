@@ -1,4 +1,4 @@
-package teste02
+package teste_b
 
 type TRest struct {
 	a1 int64
